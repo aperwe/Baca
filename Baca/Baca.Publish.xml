@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="ftp://q-bits.home.pl/Baca" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="http://q-bits.pl/Baca" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Baca" publishMethod="FTP" replaceMatchingFiles="True" userName="q-bits" savePWD="True" userPWD="AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAKTl+zJbEFEizxyEhTjVzxgAAAAACAAAAAAAQZgAAAAEAACAAAAAaOAPYVtms9G3zUme4bU3LMeCKGY+OfwypS/xh+mhzLgAAAAAOgAAAAAIAACAAAAB6ZgCOC1xNl/VtAgsi9OdGFvbuWvqBDi2ubKW6NokBOyAAAABBHv4NWsZsqwK8nvyhB34IpvfSbnr29vpoL3FU6RNGIEAAAACt3+GL/rAEn9fryTDZOS/auxWx7zxN8fi7Wn7rhwKqOLSBoStKS9Ye2QON+svL9bocoi32ujcyVyE2RZ9NLs9V" SelectedForPublish="False">
+    <file relUrl="Web.config" publishTime="06/18/2010 20:00:06" />
+    <file relUrl="Wiersze/Wiersz01.aspx" publishTime="06/18/2010 02:20:00" />
+    <file relUrl="Site.Master" publishTime="06/18/2010 02:22:34" />
+    <file relUrl="Account/Web.config" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Account/Register.aspx" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="bin/Baca.pdb" publishTime="06/18/2010 20:00:05" />
+    <file relUrl="bin/Baca.dll" publishTime="06/18/2010 20:00:05" />
+    <file relUrl="Account/ChangePasswordSuccess.aspx" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Account/Login.aspx" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Styles/Site.css" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Scripts/jquery-1.4.1.js" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Account/ChangePassword.aspx" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Global.asax" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Scripts/jquery-1.4.1-vsdoc.js" publishTime="06/18/2010 01:22:19" />
+    <file relUrl="Default.aspx" publishTime="06/18/2010 01:38:39" />
+    <file relUrl="Scripts/jquery-1.4.1.min.js" publishTime="06/18/2010 01:22:19" />
+  </publishProfile>
+  <publishProfile publishUrl="192.168.1.18" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="Default Web Site/Baca" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="True" profileName="IISBaca" publishMethod="MSDeploy" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True" />
+</publishData>
